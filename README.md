@@ -10,4 +10,12 @@ Malaysia COVID-19 Dashboard, a comprehensive platform created to provide timely 
 ⚙️ **Tools** — Looker Data Studio, BigQuery <br>
 💻 **Area** — Data Analysis, Data Blending, Data Visualization<br>
 🗂️ **Data Source** : MoH-Malaysia (Open-Source)
+
+<br>
+
+<p align="center">
+  <kbd><img width="900" src="https://github.com/nisa-g/Malaysia-Covid-19-Dashboard/assets/139193734/33a4a797-fae2-4d60-9801-4cb240551124"></kbd> <br>
+</p>
+
+<br>
 <br>
