@@ -1,4 +1,4 @@
-### 📂 Malaysia Covid-19 Dashboard
+# 📂 Malaysia Covid-19 Dashboard
 *Virtual Internship by Innodatatics | Individual | [**Looker Data Studio**](https://lookerstudio.google.com/reporting/88475c63-2124-4550-86e2-d33aa9eafaa5)*
 <br>
 <br>
