@@ -14,7 +14,7 @@ Malaysia COVID-19 Dashboard, a comprehensive platform created to provide timely 
 <br>
 
 <p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Malaysia-Covid-19-Dashboard/assets/139193734/33a4a797-fae2-4d60-9801-4cb240551124"></kbd> <br>
+  <kbd><img width="900" src="https://github.com/nisa-g/Malaysia-Covid-19-Dashboard/assets/139193734/7cc4bd26-252c-4ef1-935d-e0ee9c2fc400"></kbd> <br>
 </p>
 
 <br>
